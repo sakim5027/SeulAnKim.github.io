@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Backend Engineer
+title: Back-end Developer
 subtitle: Enthusiastic Newcomer in IT Industry
 cover-img: /assets/img/navy-blue-color-swatch-1024x536.jpg
 ---
