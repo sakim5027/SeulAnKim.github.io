@@ -36,10 +36,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "sakim5027@gmail.com"
+  github: "https://github.com/sakim5027"
+  linkedin: "https://www.linkedin.com/in/seul-an-kim-b83349a8/"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
