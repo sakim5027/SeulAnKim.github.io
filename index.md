@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Back-end Developer
+subtitle: Enthusiastic Newcomer in IT Industry
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
