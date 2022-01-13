@@ -22,6 +22,7 @@ title: Resume
 # Projects
 
 <br/>
+
 ## [MASIL](https://github.com/team-masil/MASIL)
 ### Personal Project (3 Team Members)
 #### 2020.10 - Current
