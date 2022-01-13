@@ -20,6 +20,8 @@ title: Resume
 
 # Projects
 
+<br/>
+
 ## [MASIL](https://github.com/team-masil/MASIL)
 ### Personal Project (3 Team Members)
 #### 2020.10 - Current
@@ -63,6 +65,7 @@ Built an website where users can search for Game Information & write reviews
 <br/>
 
 # Education
+<br/>
 
 ## [CodeStates](https://www.linkedin.com/school/codestates/)
 ### Advanced software engineering, Part-time Immersive program (4th)
@@ -89,6 +92,7 @@ Code States is a Coding Bootcamp that offers full-time and part-time web develop
 
 
 # Work Experience
+<br/>
 
 ## Accounting Manager
 ### Gyunglim USA, Inc.
