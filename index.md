@@ -2,7 +2,7 @@
 layout: page
 title: Back-end Developer
 subtitle: Enthusiastic Newcomer in IT Industry
-#  cover-img: /assets/img/4ABE0A8C-EBB4-4AD5-9D5A-4D1B145802E8.jpeg
+cover-img: /assets/img/navy-blue-color-swatch-1024x536.jpg
 ---
 
 <br/>
