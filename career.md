@@ -6,7 +6,7 @@ title: Resume
 <br/>
 
 
-# Stacks
+# **_Stacks_**
 
 **[ Programming Languages ]**  Javascript, SQL, HTML, CSS
 
@@ -19,7 +19,7 @@ title: Resume
 <br/>
 <br/>
 
-# Projects
+# **_Projects_**
 
 <br/>
 
@@ -65,7 +65,7 @@ Built an website where users can search for Game Information & write reviews
 <br/>
 <br/>
 
-# Education
+# **_Education_**
 
 ## [CodeStates](https://www.linkedin.com/school/codestates/)
 ### Advanced software engineering, Part-time Immersive program (4th)
@@ -91,7 +91,7 @@ Code States is a Coding Bootcamp that offers full-time and part-time web develop
 
 <br/>
 
-# Work Experience
+# **_Work Experience_**
 <br/>
 
 ## Accounting Manager
@@ -102,7 +102,7 @@ Code States is a Coding Bootcamp that offers full-time and part-time web develop
 <br/>
 <br/>
 
-# Languages
+# **_Languages_**
 
 **[ English ]**  Professional working proficiency
 
