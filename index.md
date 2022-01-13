@@ -2,28 +2,20 @@
 layout: page
 title: Back-end Developer
 subtitle: Enthusiastic Newcomer in IT Industry
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/A1E7CB86-43F1-4114-B1B4-20A004CDD70C.jpeg
 ---
 
 <br/>
 
 ## About me
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+**Seul An Kim** is an **_enthusiastic newcomer in IT industry_** who is looking for a new career as a **_Back-end Developer_**. She worked over 5 years as an Accounting Manager in the Automotive Industry, but she got interested in the IT industry and finished 51-week Web Development Course by Codestates (Coding Bootcamp). During this course, she did weekly pair programming and multiple team projects, which made her learn the Web Development with the importance in communication. She experienced Web Development using Express and Node.js, and handled both RDBSM and NoSQL using MySQL & MongoDB. She also have an experience with cloud computing and deployment using AWS EC2, RDS and S3.
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
-
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
-
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+She likes coming up with new ideas and finding out more efficient ways in solving the issues, and would love to work in the environment where she can coordinate & contribute to the team with such aspects and learn from the experts.
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Email: sakim5027@gmail.com
+Phone: 217-377-0072
 ```
