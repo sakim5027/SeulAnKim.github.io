@@ -53,7 +53,7 @@ In the project planning process, we created below documents and rules:
 
 ### 1-1) Project Goals
 
-While setting the project goals, we divided the goals into 3 different levels according to difficulty. If you want to know what goals we could achieve or not, please see **Retrospective** at the end of this post.
+While setting the project goals, we divided the goals into 3 different levels according to difficulty and importance. If you want to know what goals we could achieve or not, please see **Retrospective** at the end of this post.
 
 **[ Bare minimum ]**
 - Login / Logout / Sign Up / Duplicate ID Check / Sign Out
