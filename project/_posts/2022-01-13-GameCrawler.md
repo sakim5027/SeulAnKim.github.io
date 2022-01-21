@@ -282,3 +282,5 @@ When the screen is small, the navigation bar menus ultimately becomes an icon on
 ## 3) Retrospective
 
 With lack of time, we could not finish all the goals we initially set at the start of the project. (For example, review page and statistic page could not be completed until the project deadline.) However, I am glad I could come up with my first website that actually works with basic features. For the detailed retrospective, please see my blog post **Game Crawler Project Retrospective**. 
+
+<br>
