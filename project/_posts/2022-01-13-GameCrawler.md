@@ -5,7 +5,7 @@ subtitle: Codestates First Project (4 Weeks / 3 Team Members)
 gh-repo: sakim5027/sakim5027.github.io
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/GameCrawlers/GameCrawler_logo2.png
-tags: [React, Node.js, AWS(S3), HTML, CSS]
+tags: [React, Node.js, AWS(S3), HTML, CSS, Login Modal, Duplicate Check, Validation Check, Responsive Web Design]
 comments: true
 ---
 
@@ -88,16 +88,16 @@ Before working on the project, we also set the Team Rules to follow during the p
 7. Share the information in Discord Chat Room if any of the plans needs to be modified
 
 **[ PR Form ]**
-[Server/Client] / Issue number / Issue title
+[Server/Client] Issue number/Issue title
 
 **[ Commit message Form ]**
-Issue Number / Issue title / feature details created or modified
+Issue Number/Issue title/feature details created or modified
 
 **[ Branch Name Form ]**
 feature_issue number
 
 **[ Variable Name Form ]**
-camelCase, if related to DB, table name + column name
+camelCase/ if related to DB, table name + column name
 
 **[ File & Constructor Name Form ]**
 Name it according to the page name
