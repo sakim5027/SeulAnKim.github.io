@@ -4,7 +4,7 @@ title: GameCrawler
 subtitle: Codestates First Project (4 Weeks / 3 Team Members)
 gh-repo: sakim5027/sakim5027.github.io
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/01. GameCrawler_Main Page.png
+cover-img: /assets/img/GameCrawler_logo.png
 tags: [React, Node.js, AWS(S3), HTML, CSS]
 comments: true
 ---
