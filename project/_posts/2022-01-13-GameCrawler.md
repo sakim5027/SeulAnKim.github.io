@@ -164,7 +164,7 @@ no-unused-vars : warning
 
 ### 1-6) API Document
 
-![APIDocument](../assets/document/Game Crawler_API.pdf)
+* [API Document](https://github.com/sakim5027/sakim5027.github.io/blob/master/assets/document/Game%20Crawler_API.pdf "https://github.com/sakim5027/sakim5027.github.io/blob/master/assets/document/Game%20Crawler_API.pdf")
 
 
 
