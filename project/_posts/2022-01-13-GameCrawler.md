@@ -231,7 +231,7 @@ If you click on the Login button, the **Login Modal** pops up and the previous p
 
   ![IdPwSearch](../assets/img/GameCrawlers/07. GameCrawler_Id&Pw Search.png)
 
-If you click onto the **Find your ID / Password** button in the Login Modal, you will be directed to the **ID & Password Search** page. In this page, you can find your ID using your registered email, or find your password using your ID and email. All information will be sent to the registered email, and you can check your lost ID or password in your email.
+If you click onto the **Find your ID / Password** button in the Login Modal, you will be directed to the **ID & Password Search** page. In this page, you can find your ID using your registered email, or find your password using your ID and email. All information will be mailed out to the registered email, and you can check your lost ID or password in your email.
 
 <br>
 
