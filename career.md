@@ -60,6 +60,7 @@ Built an website where users can search for Game Information & write reviews
 
 * Experienced front-end development process using React
 * Created login modal, Signup, Mypage and Review page
+* Implemented Responsive Web Design using Media Query
 * Deployed using AWS S3
 
 <br/>
