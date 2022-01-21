@@ -241,9 +241,11 @@ If you click onto the **Find your ID / Password** button in the Login Modal, you
 
 If you click onto the **Sign Up** button in the Login Modal, you will be directed to the **Sign Up Page**. In this page, you can create a new ID, password, nickname and register your email associated with the ID. Also, you get to choose your favorite game genre.
 
-When creating the ID and password, you need to go through the **validation check**. Your ID needs to be between 4-12 letters including Capitals & numbers, and it should also pass the **duplicate check**. Your password, in other hand, needs to be between 6-12 letters including Capitals & numbers, and the same password needs to be entered twice. This process is shown in below gif image:
 
   ![IdPwCheck](../assets/img/GameCrawlers/06. GameCrawler_Id&Pw Check.gif) 
+
+When creating the ID and password, you need to go through the **validation check**. Your ID needs to be between 4-12 letters including Capitals & numbers, and it should also pass the **duplicate check**. Your password, in other hand, needs to be between 6-12 letters including Capitals & numbers, and the same password needs to be entered twice. This process is shown in below gif image:
+
 
 <br>
 
@@ -253,9 +255,11 @@ When creating the ID and password, you need to go through the **validation check
 
 Once you successfully created your new ID, you will be directed to **MyPage**. In this page, you can see your user information, such as nickname, email and favorite genre. If you wrote any game reviews in the past, it will also be show up in this page uner **My Reviews**. 
 
-If you want to update your user information, you can click onto the update button and it will direct you to the **User Info Update** page. In this page, you can change your nickname, password, favorite genre or associated email. When you are changing the password, you will have to go through the **validation check** again, and the same password needs to be entered twice as well.
 
   ![MyPageUpdate](../assets/img/GameCrawlers/04-1. GameCrawler_MyPage Update.png)
+
+If you want to update your user information, you can click onto the update button and it will direct you to the **User Info Update** page. In this page, you can change your nickname, password, favorite genre or associated email. When you are changing the password, you will have to go through the **validation check** again, and the same password needs to be entered twice as well.
+
 
 <br>
 
@@ -264,6 +268,7 @@ If you want to update your user information, you can click onto the update butto
   ![ResponsiveWeb1](../assets/img/GameCrawlers/08. GameCrawler_Responsive Web Design_1.gif)
 
 While creating the Game Crawler website, we could successfully implement the **Responsive Web Design** using the media query in CSS. As you can see from the above gif image, the game list in the landing page re-arranges as the page gets smaller.
+
 
   ![ResponsiveWeb2](../assets/img/GameCrawlers/08. GameCrawler_Responsive Web Design_2.gif)
 
