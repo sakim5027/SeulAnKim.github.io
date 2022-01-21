@@ -28,8 +28,9 @@ In this 4-week project, I worked as a team of 3 members in creating a website wh
 
 2) Final Website & Features
 - Main Page
-- Genre Selection
+- Game List Filtering
 - Login Modal
+- ID & Password Search
 - Sign Up Page
 - MyPage
 - Responsive Web Design
@@ -111,36 +112,47 @@ no-unused-vars : warning
 ### 1-3) Wire Frame
 
 1. Header
+
       ![Header](../assets/img/GameCrawlers/WireFrame/01. Header.png)
 
 2. Footer
+
       ![Footer](../assets/img/GameCrawlers/WireFrame/02. Footer.png)
 
 3. Sign Up Page
+
       ![SignUp](../assets/img/GameCrawlers/WireFrame/03. Sign Up.png)
 
 4. MyPage
+
       ![MyPage](../assets/img/GameCrawlers/WireFrame/04. MyPage.png)
 
 5. Update User Info Page
+
       ![UpdateInfo](../assets/img/GameCrawlers/WireFrame/05. Update User Info.png)
 
 6. Home Page
+
       ![Home](../assets/img/GameCrawlers/WireFrame/06. Home.png)
 
 7. Game Details Page
+
       ![GameDetails](../assets/img/GameCrawlers/WireFrame/07. Game Details.png)
 
 8. Favorites Page
+
       ![Favorites](../assets/img/GameCrawlers/WireFrame/08. Favorites.png)
 
 9. Review Page
+
       ![ReviewList](../assets/img/GameCrawlers/WireFrame/09. Review List.png)
 
 10. Write Reviews Page
+
       ![WriteReview](../assets/img/GameCrawlers/WireFrame/10. Write Reviews.png)
 
 11. Statistics
+
       ![Statistics](../assets/img/GameCrawlers/WireFrame/11. Statistics.png)
 
 
@@ -165,6 +177,83 @@ no-unused-vars : warning
 ### 1-6) API Document
 
 * [API Document](https://github.com/sakim5027/sakim5027.github.io/blob/master/assets/document/Game%20Crawler_API.pdf "https://github.com/sakim5027/sakim5027.github.io/blob/master/assets/document/Game%20Crawler_API.pdf")
+
+
+
+<br>
+
+## 2) Final Website & Features
+
+Below are the fianl website we created and the main features.
+
+- Main Page
+- Game List Filtering
+- Login Modal
+- ID & Password Search
+- Sign Up Page
+- MyPage
+- Responsive Web Design
+
+
+<br>
+
+### 2-1) Main Page
+
+  ![MainPage1](../assets/img/GameCrawlers/01. GameCrawler_Main Page_1.png)
+
+This is the **Landing Page** of our website. In the header, there is logo and the website name (Game Crawler), along with the Review page, Statistics page and Login button. The main page shows all the games list with their poster image, and each image has the favorite button (heart shape) on it. The footer has our website name and contact information. 
+
+Once we log in, the page changes as below:
+
+  ![MainPage2](../assets/img/GameCrawlers/01. GameCrawler_Main Page_2.png)
+
+The main thing that changes once you log in is the Login button on the top right corner. The login button now changes to the Logout button, and a new button for the Mypage shows up.
+
+<br>
+
+### 2-2) Game List Filtering
+
+  ![GenreSelection](../assets/img/GameCrawlers/02. GameCrawler_Genre.png)
+
+In the Main Page, there is a radio button for the **genre selection**. If specific genre is selected, the games in the main page filters and shows the games in that specific genre. Also, you can type in the name of the game in the **search bar**, and it will also filter and shows up the game you are looking for.
+
+<br>
+
+### 2-3) Login Modal
+
+  ![LoginModal](../assets/img/GameCrawlers/03. GameCrawler_Login Modal.png)
+
+If you click on the Login button, the **Login Modal** pops up and the previous page is shaded. In this page, you can login using your ID and Password. If you do not have a ID, you can sign up by clicking on the Sign Up button, and if you forgot your ID or Password, you can search for your ID or password as well. There is also Google Login button (O-Auth Login) which allows you to sign up using your existing google email.
+
+<br>
+
+### 2-4) ID & Password Search
+
+  ![IdPwSearch](../assets/img/GameCrawlers/07. GameCrawler_Id&Pw Search.png)
+
+If you click onto the **Find your ID / Password** button in the Login Modal, you will be directed to the **ID & Password Search** page. In this page, you can find your ID using your registered email, or find your password using your ID and email. All information will be sent to the registered email, and you can check your lost ID or password in your email.
+
+<br>
+
+### 2-5) Sign Up Page
+
+  ![SignUp](../assets/img/GameCrawlers/05. GameCrawler_Sign Up.png)
+
+If you click onto the **Sign Up** button in the Login Modal, you will be directed to the **Sign Up Page**. In this page, you can create a new ID, password, nickname and register your email associated with the ID. Also, you get to choose your favorite game genre.
+
+When creating the ID and password, you need to go through the **validation check**. Your ID needs to be between 4-12 letters including Capitals & numbers, and it should also pass the **duplicate check**. Your password, in other hand, needs to be between 6-12 letters including Capitals & numbers, and the same password needs to be entered twice. This process is shown in below gif image:
+
+  ![IdPwCheck](../assets/img/GameCrawlers/06. GameCrawler_Id&Pw Check.png) 
+
+<br>
+
+### 2-6) MyPage
+
+  ![MyPage](../assets/img/GameCrawlers/04. GameCrawler_MyPage_2.png)
+
+
+
+
 
 
 
