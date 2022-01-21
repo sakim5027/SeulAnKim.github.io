@@ -241,10 +241,11 @@ If you click onto the **Find your ID / Password** button in the Login Modal, you
 
 If you click onto the **Sign Up** button in the Login Modal, you will be directed to the **Sign Up Page**. In this page, you can create a new ID, password, nickname and register your email associated with the ID. Also, you get to choose your favorite game genre.
 
+When creating the ID and password, you need to go through the **validation check**. Your ID needs to be between 4-12 letters including Capitals & numbers, and it should also pass the **duplicate check**. Your password, in other hand, needs to be between 6-12 letters including Capitals & numbers, and the same password needs to be entered twice. This process is shown in below gif image:
 
   ![IdPwCheck](../assets/img/GameCrawlers/06. GameCrawler_Id&Pw Check.gif) 
 
-When creating the ID and password, you need to go through the **validation check**. Your ID needs to be between 4-12 letters including Capitals & numbers, and it should also pass the **duplicate check**. Your password, in other hand, needs to be between 6-12 letters including Capitals & numbers, and the same password needs to be entered twice. This process is shown in below gif image:
+In this image, you can see that the web does the validation check and shows the appropriate alert messages below the input box as you enter the ID & password.
 
 
 <br>
