@@ -83,7 +83,7 @@ Before working on the project, we also set the Team Rules to follow during the p
 3. Don't be mad at team members for being inexperienced / bad
 4. Write comments on the details about the code you wrote (for the review purpose)
 5. Update the weekly progress in the Discord Chat Room on Monday
-6. Share the information in Discord Chat Room if you made PR or updated the Wiki page
+6. Share the information in Discord Chat Room if you made PR or updated the Wiki
 7. Share the information in Discord Chat Room if any of the plans needs to be modified
 
 **[ PR Form ]**
