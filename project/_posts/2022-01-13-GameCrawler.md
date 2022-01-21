@@ -90,13 +90,13 @@ Before working on the project, we also set the Team Rules to follow during the p
 [Server/Client] / Issue number / Issue title
 
 **[ Commit message Form ]**
-Issue Number / Issue title / details about features created or modified
+Issue Number / Issue title / feature details created or modified
 
 **[ Branch Name Form ]**
 feature_issue number
 
 **[ Variable Name Form ]**
-camelCase, and if it is related to DB, table name + column name
+camelCase, if related to DB, table name + column name
 
 **[ File & Constructor Name Form ]**
 Name it according to the page name
