@@ -65,7 +65,7 @@ While setting the project goals, we divided the goals into 3 different levels ac
 - Review List CRUD
 
 **[ Advanced ]**
-- Wish List CRUD
+- Favorite List CRUD
 - Statistics for Favorite Genre / Games
 
 **[ Nightmare ]**
