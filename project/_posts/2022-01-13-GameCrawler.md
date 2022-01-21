@@ -110,15 +110,61 @@ no-unused-vars : warning
 
 ### 1-3) Wire Frame
 
+1. Header
+      ![Header](../assets/img/GameCrawlers/WireFrame/01. Header.png)
+
+2. Footer
+      ![Footer](../assets/img/GameCrawlers/WireFrame/02. Footer.png)
+
+3. Sign Up Page
+      ![SignUp](../assets/img/GameCrawlers/WireFrame/03. Sign Up.png)
+
+4. MyPage
+      ![MyPage](../assets/img/GameCrawlers/WireFrame/04. MyPage.png)
+
+5. Update User Info Page
+      ![UpdateInfo](../assets/img/GameCrawlers/WireFrame/05. Update User Info.png)
+
+6. Home Page
+      ![Home](../assets/img/GameCrawlers/WireFrame/06. Home.png)
+
+7. Game Details Page
+      ![GameDetails](../assets/img/GameCrawlers/WireFrame/07. Game Details.png)
+
+8. Favorites Page
+      ![Favorites](../assets/img/GameCrawlers/WireFrame/08. Favorites.png)
+
+9. Review Page
+      ![ReviewList](../assets/img/GameCrawlers/WireFrame/09. Review List.png)
+
+10. Write Reviews Page
+      ![WriteReview](../assets/img/GameCrawlers/WireFrame/10. Write Reviews.png)
+
+11. Statistics
+      ![Statistics](../assets/img/GameCrawlers/WireFrame/11. Statistics.png)
+
+
+<br>
+
+### 1-4) Flow Chart
+
+![FlowChart](../assets/img/GameCrawlers/FlowChart/FlowChart.png)
 
 
 
+<br>
+
+### 1-5) DB Schema
+
+![DBSchema](../assets/img/GameCrawlers/DBSchema/DB Schema.png)
 
 
 
+<br>
 
+### 1-6) API Document
 
-
+![APIDocument](../assets/document/Game Crawler_API.pdf)
 
 
 
