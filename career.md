@@ -51,7 +51,7 @@ A project to build a website to find missing animals by building a platform to c
 
 <br/>
 
-## [GameCrawler](https://github.com/codestates/GameCrawler-client)
+## [GameCrawler](https://sakim5027.github.io/2022-01-13-GameCrawler/)
 ### Codestates First Project (4 Weeks / 3 Team Members)
 #### 2021.04 - 2021.05
 **[ Front-end ]** React, Node.js, AWS(S3), HTML, CSS
