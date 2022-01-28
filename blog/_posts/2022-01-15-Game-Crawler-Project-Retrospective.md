@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Crawler Project Retrospective
+title: GameCrawler Project Retrospective
 subtitle: CodeStates First Project Retrospective
 gh-repo: sakim5027/GameCrawler_client
 gh-badge: [star, fork, follow]

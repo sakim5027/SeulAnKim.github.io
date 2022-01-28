@@ -20,21 +20,21 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 ## Contribution
 
-Position: Back-end
-Stack: Node.js / Express.js / MySQL / AWS EC2 / AWS RDS / SequleizeORM / JWT / pm2 / multer / multer-S3
+- Position: Back-end
+- Stack: Node.js, Express.js, MySQL, AWS EC2, AWS RDS, SequleizeORM, JWT, pm2, multer, multer-S3
 
 
 **[ Team Collaboration (SR) ]**
 
 - 아이디어 선정 및 선정된 아이템에 대한 개발 컨셉 설정
-- Miro & Figma를 이용한 Flow chart, Wire Frame 작성
+- Created Flow chart and Wire Frame using Miro & Figma
 
 **[ DATABASE ]**
 
-1. DB Diagram 스키마 설계
+1. DB Diagram Schema Design
     - DB Diagram을 이용해서 데이터베이스 스키마 설계
     
-2. MySQL DB 구축
+2. MySQL Database 구축
     - Sequelize ORM을 이용하여 mySQL 데이터베이스 구축
     - 데이터베이스 모델 관계 설정
     - RDS DB 인스턴스 생성
@@ -52,13 +52,13 @@ Stack: Node.js / Express.js / MySQL / AWS EC2 / AWS RDS / SequleizeORM / JWT / p
     - Missing_answer(실종신고 답글) CRUD
     
 
-**[ 이미지 업로드 기능 ]**
+**[ Image Upload ]**
 
 1. MULTER & MULTER-S3
     - 클라이언트에서 보내는 이미지 데이터 MULTER-S3를 이용해 AWS S3에 저장
     - 클라이언트에 S3 이미지 링크 제공
 
-**[ AWS 배포 ]**
+**[ AWS Deployment ]**
 
 1. AWS를 이용한 배포 및 서버 관리
     - AWS EC2
