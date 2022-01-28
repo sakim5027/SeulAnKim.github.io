@@ -20,7 +20,11 @@ This was the first group project I experienced in the CodeStates bootcamp. In th
 
 ### Experience with Git
 
-Since this was my first group project, this was the first time I experienced the **Git** in group settings. During this project, we learned **Version Control System** by creating & managing different branches within git to work on the different features of the project. At first, it took us hours and hours in fixing the messed up Git branches, since everyone was inexperienced with the git. But as time went by, we got used to using git in handling the branches, and got into a habit of pulling the upstream before pushing my local branches to upstream. Below are some of the git features I used & experienced:
+Since this was my first group project, this was the first time I experienced the **Git** in group settings. During this project, we learned **Version Control System** by creating & managing different branches within git to work on the different features of the project. 
+
+At first, it took us hours and hours in fixing the messed up Git branches, since everyone was inexperienced with the git. But as time went by, we got used to using git in handling the branches, and got into a habit of pulling the upstream before pushing my local branches to upstream. 
+
+Below are some of the git features I used & experienced:
 
 - **git remote add (upstream) (url)** : Add the specific url as the upstream repository
 - **git branch** : checking the list of branches I have
@@ -69,3 +73,6 @@ In this circumstances, I felt the pressure of deadline more than ever. Among the
 Also, at the start of the project we distributed the estimated hours in completing each pages, but since everyone was inexperienced, it took us far longer to build each pages. As a result, we could not finish the Game review page and Statistics page, as well as the Game details page. 
 
 Looking back at the project, I think we did not estimate the available time correctly, and ended up planning for the bigger project that what we could finish with given time. If the communication between teammates was better, we could resize the size of the project and get rid of the unnecessary features, but this did not work well. After the project, I felt the importance of knowing what I can do and coming up with correct estimates at the planning stage.
+
+
+<br>
