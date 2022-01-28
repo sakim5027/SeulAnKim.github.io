@@ -2,7 +2,7 @@
 layout: post
 title: GameCrawler
 subtitle: Codestates First Project (4 Weeks / 3 Team Members)
-gh-repo: sakim5027/sakim5027.github.io
+gh-repo: sakim5027/GameCrawler_client
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/GameCrawlers/GameCrawler_logo2.png
 tags: [React, Node.js, AWS(S3), HTML, CSS, Login Modal, Duplicate Check, Validation Check, Responsive Web Design]
