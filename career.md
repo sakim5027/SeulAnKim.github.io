@@ -36,18 +36,17 @@ Project for One-page website where Pet Owners can communicate with each other ba
 
 <br/>
 
-## [PetGuru](https://github.com/codestates/PetGuru-server)
+## [PetGuru](https://sakim5027.github.io/2022-01-21-PetGuru/)
 ### Codestates Final Project (6 Weeks / 4 Team Members)
 #### 2021.05 - 2021.06
 **[ Back-end ]** Node.js, Express, MySQL, Sequelize, AWS(EC2, RDS), Multer
 
-A project to build a website to find missing animals by building a platform to connect people
+A project to build a website to find missing pets by building a platform to connect people
 
 * Created DB Schema and built MySQL Database using Sequelize ORM
 * Planned Server endpoint API and built CRUD using Express routers in Node.js
 * Deployed project server using AWS EC2 & RDS and maintained it using pm3
 * Built Image uploader using Multer & Multer-S3 and saved image information in AWS S3
-* [Project Details](https://www.notion.so/1-PetGuru-dee743c8202244849e9a2041a5195083)
 
 <br/>
 
