@@ -10,5 +10,13 @@ comments: true
 ---
 <br>
 
-## 개요
+## Looking Back the CodeStates 4-week project
+
+This was the first group project I experienced in the CodeStates bootcamp. In this project, I worked with 2 other teammates, and participated as the Front-end web developer. During the 4 weeks, our team worked as a group and went through all the process from the service planning to the website building. Below are the things I felt while going through this first group project.
+
+### Login Modal
+
+### Importance of Teamwork & Communication
+
+### Pressure of Deadline
 
