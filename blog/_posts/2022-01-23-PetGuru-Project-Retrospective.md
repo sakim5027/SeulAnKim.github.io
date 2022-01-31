@@ -36,9 +36,9 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
     - Designed Database Schema using DB Diagram
     
 2. MySQL Database Build up
-    - Created MySQL Database using Sequelize ORM
-    - Built Database Model Relation
-    - Created RDS DB instance
+    - Built MySQL Database using Sequelize ORM
+    - Created Database Model Association
+    - Created & Maintained RDS DB instance
     
 
 **[ API ]**
@@ -129,12 +129,38 @@ Once we finished listing possible endpoints, I created API Document using Gitboo
 
 <br>
 
-After this, we created API endpointes and built responses for each endpoints using routers in Express framework. This went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
+After this, we created API endpointes and built responses for each endpoints using routers in Express framework. Then we tested the request & responses using Postman. This stage went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
 
 <br>
 
 ### MySQL Database Build up
 
+In this project, I built relational database using MySQL. At first, I created Model & did migration using Sequelize in the terminal. After that I created Modeal association and connected each Database Models since this was relational database. For example, User table and Pet table has 1:N relationship, and this could be created with below code:
+
+
+```javascript
+db.User.hasMany(db.Pet,{
+  foreignKey: 'user_id',
+  sourceKey: 'id'
+});
+
+db.Pet.belongsTo(db.User,{
+  foreignKey: 'user_id',
+  targetKey: 'id'
+});
+```
+
+Also, I made the sequelize to sync if Database is modified by adding below code:
+
+```javascript
+db.sequelize.sync({
+	alter : true
+})
+```
+
+In order to check whether the data went into the database successfully, I used MySQL Workbench. With this app I could see the table visually, and it helped me a lot especially in testing process.
+
+  ![MySQLWorkbench](../assets/img/PetGuru/MySQL Workbench.png)
 
 
 <br>
