@@ -5,7 +5,7 @@ subtitle: CodeStates Final Project Retrospective
 gh-repo: codestates/PetGuru-server
 gh-badge: [star, fork, follow]
 cover-img: /assets/img/PetGuru/PetGuru_Logo.png
-tags: [Node.js, Express, MySQL, Sequelize, AWS(EC2, RDS), Multer, JWT, PM2]
+tags: [Node.js, Express, MySQL, Sequelize, AWS EC2, AWS RDS, Multer, JWT, PM2]
 comments: true
 ---
 <br>
