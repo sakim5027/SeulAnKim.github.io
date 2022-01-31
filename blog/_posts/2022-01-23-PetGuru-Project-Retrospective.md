@@ -194,15 +194,13 @@ const upload = multer({
 })
 ```
 
-<br>
-
 In the above code, you can see that the Access Key Id, Secret Access Key and Region is being handled with **dotenv**. Since these information should not be openly shared, I handled this information as environment variable using dotenv.
 
 <br>
 
 ### Resizing the Project
 
-As project deadline approached, we realized we are behind the schedule and we need to resize the project. After a thoughtful discussion, our team decided to get rid of the Q&A page, reply feature and changing the Missing Pets view mode (list & map view). It was pretty rough decision, considering how passionate we were when we planned the service at first. However, I felt like it was necessary decision, and glad that we could discuss about project resizing before it is too late (as it was in my first project). With this resizing, we could focus on what is necessary and finish the project on time.
+As project deadline approached, we realized we are behind the schedule and we need to resize the project. After a thoughtful discussion, our team decided to get rid of the Q&A page, reply feature and changing the Missing Pets view mode (list & map view). It was pretty rough decision, considering how passionate we were when we planned the service at first. However, I felt like it was a necessary decision, and glad that we could discuss about project resizing before it is too late (as it was in my first project). With this resizing, we could focus on what is necessary and finish the project on time.
 
 <br>
 
