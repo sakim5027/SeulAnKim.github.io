@@ -161,11 +161,15 @@ db.sequelize.sync({
 	alter : true
 })
 ```
+<br>
 
 In order to check whether the data went into the database successfully, I used MySQL Workbench. With this app I could see the table visually, and it helped me a lot especially in testing process.
 
   ![MySQLWorkbench](../assets/img/PetGuru/MySQL Workbench.png)
 
+Table example:
+
+  ![MySQLWorkbench2](../assets/img/PetGuru/MySQL Workbench 2.png)
 
 <br>
 
