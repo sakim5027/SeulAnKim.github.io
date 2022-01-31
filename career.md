@@ -30,8 +30,8 @@ title: Resume
 
 Project for One-page website where Pet Owners can communicate with each other based on their location
 
-* Built NoSQL Database using MongoDB & Mongoose
-* Created token-based authorization and maintained secure webpage
+* Building NoSQL Database using MongoDB & Mongoose
+* Creating token-based authorization and maintained secure webpage
 * Studying how to Maintain secure webpage environment by using NGNIX
 
 <br/>
