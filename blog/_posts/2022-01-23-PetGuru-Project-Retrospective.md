@@ -20,10 +20,8 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 ## Contribution
 
-<br>
-
 - Position: Back-end
-- Stack: Node.js, Express.js, MySQL, AWS EC2, AWS RDS, SequleizeORM, JWT, pm2, multer, multer-S3
+- Stacks Used: Node.js, Express.js, MySQL, AWS EC2, AWS RDS, SequleizeORM, JWT, pm2, multer, multer-S3
 
 
 **[ Team Collaboration (SR) ]**
@@ -36,8 +34,6 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 1. DB Diagram Schema Design
     - Designed Database Schema using DB Diagram
-
-<br>
     
 2. MySQL Database Build up
     - Built MySQL Database using Sequelize ORM
@@ -51,8 +47,6 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
     - Designed API endpoint
     - Created API Document using Gitbook
     - Built routers in Express framework of NodeJS
-
-<br>
     
 2. Response Build up for each API endpoints
     - Pet(pet information) CRUD
