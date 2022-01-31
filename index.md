@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back-end Developer
+title: Software Engineer
 subtitle: Enthusiastic Newcomer in IT Industry
 cover-img: /assets/img/photo-1557682250-33bd709cbe85.jpeg
 ---
