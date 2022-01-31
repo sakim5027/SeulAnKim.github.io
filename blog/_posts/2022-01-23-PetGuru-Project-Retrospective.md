@@ -200,16 +200,20 @@ In the above code, you can see that the Access Key Id, Secret Access Key and Reg
 
 <br>
 
-### Project Deployment
+### Resizing the Project
 
+As project deadline approached, we realized we are behind the schedule and we need to resize the project. After a thoughtful discussion, our team decided to get rid of the Q&A page, reply feature and changing the Missing Pets view mode (list & map view). It was pretty rough decision, considering how passionate we were when we planned the service at first. However, I felt like it was necessary decision, and glad that we could discuss about project resizing before it is too late (as it was in my first project). With this resizing, we could focus on what is necessary and finish the project on time.
 
 <br>
 
 ### Learning from the Teammates
 
+Since I learned the importance of communication and teamwork from my first project, I took extra care to have good communication and teamwork in this project. It was pretty successful this time, although there were some happenings at the early stage of project. 
 
+When we first came up with the service ideas and development concepts in the planning stage, I mainly led the discussion by coming up with variety of ideas, listening to teammates' opinions and making the team look at the same direction. Throughout this process, I made sure everyone understood what service we are going for and what development concept we will be having by providing visual examples and in-depth explanation. However, when we started to design the website frameworks, it turned out one of the Front-end team member understood the concept in totally different way. Since we have been having a frequent conversation and had great communication, we could find this out early and changed this as an opportunity to have everyone on the same page. This was a example of how a good communication can fix the errors before it could be too late.
+
+Also, in this project I had an experience of pushing the teammates for the same goal. In this team, 2nd Back-end developer was very busy during the project, having a marriage ceremony and honeymoon trip. Due to his schedule, he could not participate in some of the team meetings, and this was affecting me, the Back-end team member directly. So, I had to find a way to push both of us in finishing the project the whole time, by coordinating & adjusting the works in the way we both could agree on.
+
+Despite of some difficulties, the overall team atmosphere was very nice throughtout the project, and we had a supportive relationship between the teammates. Everyone was honest in sharing the issues and opinions with the team, and recommended & shared useful information for each other. Everyone is different and there is always a chance I have to work with someone who is not a perfect fit with me, but there is always a way if I keep in mind the good communication and teamwork. I feel like this is the biggest lesson I learned from this project.
 
 <br>
-
-### Resizing the Project
-
