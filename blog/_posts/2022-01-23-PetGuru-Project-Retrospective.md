@@ -18,7 +18,9 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 <br>
 
-## Contribution Summary
+## Contribution
+
+<br>
 
 - Position: Back-end
 - Stack: Node.js, Express.js, MySQL, AWS EC2, AWS RDS, SequleizeORM, JWT, pm2, multer, multer-S3
@@ -34,6 +36,8 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 1. DB Diagram Schema Design
     - Designed Database Schema using DB Diagram
+
+<br>
     
 2. MySQL Database Build up
     - Built MySQL Database using Sequelize ORM
@@ -47,6 +51,8 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
     - Designed API endpoint
     - Created API Document using Gitbook
     - Built routers in Express framework of NodeJS
+
+<br>
     
 2. Response Build up for each API endpoints
     - Pet(pet information) CRUD
@@ -59,6 +65,7 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 1. MULTER & MULTER-S3
     - Saved the image data from Client to AWS S3 using MULTER-S3
     - Provided Client the S3 image link
+
 
 **[ AWS Deployment ]**
 
@@ -80,7 +87,7 @@ In order to do this, me and another Back-end developer (we had 2 Back-end develo
   ![API1](../assets/img/PetGuru/API endpoint 1.png)
   ![API2](../assets/img/PetGuru/API endpoint 2.png)
 
-Once we finished listing possible endpoints, I created API Document using Gitbook. In this process, I could learn about **HTTP Status Code** used in API responses. Below are some of the frequently used HTTP status codes and the API Document I created:
+Once we finished listing possible endpoints, I created API Document using Gitbook. In this process, I could learn about **HTTP Status Code** used in API responses. Below are some of the frequently used HTTP status codes:
 
 **[1×× Informational]**
 
@@ -123,13 +130,10 @@ Once we finished listing possible endpoints, I created API Document using Gitboo
 - 511 Network Authentication Required
 - 599 Network Connect Timeout Error
 
-<br>
+
+After this, I created API endpointes and built responses for each endpoints using routers in Express framework. Then we tested the request & responses using Postman. This stage went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
 
 * [API Document (Gitbook)](https://petguru.gitbook.io/petguru-gitbook/ "https://petguru.gitbook.io/petguru-gitbook/")
-
-<br>
-
-After this, we created API endpointes and built responses for each endpoints using routers in Express framework. Then we tested the request & responses using Postman. This stage went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
 
 <br>
 
