@@ -82,12 +82,12 @@ This was the second group project I experienced in the CodeStates bootcamp. In t
 
 In this project, I had an opportunity to design whole API endpoints & responses for the each endpoints. It was a challenge for me, especially since I had to come up with all the possible endpoints that would be needed in the website BEFORE building the website. So, I had to use my imagination and rely on the Wireframes and Flowcharts we created in the planning stage. 
 
-In order to do this, me and another Back-end developer (we had 2 Back-end developers including me in this project) first came up with basic endpoints we thought we might need and left notes on the points that might need update. Then, we discussed about those points and edited them as we proceeded. Below is how we worked on this API endpoint design in Notion:
+In order to do this, me and another Back-end developer (we had 2 Back-end developers including me in this project) first came up with basic endpoints we thought we might need and left notes on the points that might need update. Then, we discussed about those points and edited them as we proceeded. Below is how we worked on this API endpoint design in **Notion**:
 
   ![API1](../assets/img/PetGuru/API endpoint 1.png)
   ![API2](../assets/img/PetGuru/API endpoint 2.png)
 
-Once we finished listing possible endpoints, I created API Document using Gitbook. In this process, I could learn about **HTTP Status Code** used in API responses. Below are some of the frequently used HTTP status codes:
+Once we finished listing possible endpoints, I created API Document using **Gitbook**. In this process, I could learn about **HTTP Status Code** used in API responses. Below are some of the frequently used HTTP status codes:
 
 **[1×× Informational]**
 
@@ -131,7 +131,7 @@ Once we finished listing possible endpoints, I created API Document using Gitboo
 - 599 Network Connect Timeout Error
 
 
-After this, I created API endpointes and built responses for each endpoints using routers in Express framework. Then we tested the request & responses using Postman. This stage went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
+After this, I created API endpointes and built responses for each endpoints using routers in **Express** framework. Then we tested the request & responses using **Postman**. This stage went rather smoothly, especially since I already planned & designed all API endpoints and responses in the API Document. I felt the importance of planning & creating appropriate API Documents in the planning stage.
 
 * [API Document (Gitbook)](https://petguru.gitbook.io/petguru-gitbook/ "https://petguru.gitbook.io/petguru-gitbook/")
 
@@ -139,7 +139,7 @@ After this, I created API endpointes and built responses for each endpoints usin
 
 ### MySQL Database Build up
 
-In this project, I built relational database using MySQL. At first, I created Model & did migration using Sequelize in the terminal. After that I created Modeal association and connected each Database Models since this was relational database. For example, User table and Pet table has 1:N relationship, and this could be created with below code:
+In this project, I built relational database using **MySQL**. At first, I created Model & did migration using **Sequelize** in the terminal. After that I created Modeal association and connected each Database Models since this was relational database. For example, User table and Pet table has 1:N relationship, and this could be created with below code:
 
 
 ```javascript
@@ -163,7 +163,7 @@ db.sequelize.sync({
 ```
 <br>
 
-In order to check whether the data went into the database successfully, I used MySQL Workbench. With this app I could see the table visually, and it helped me a lot especially in testing process.
+In order to check whether the data went into the database successfully, I used **MySQL Workbench**. With this app I could see the table visually, and it helped me a lot especially in testing process.
 
   ![MySQLWorkbench](../assets/img/PetGuru/MySQL Workbench.png)
 
@@ -175,6 +175,34 @@ Table example:
 
 ### Multer & Multer-S3 Image uploader
 
+In order to implement the **image uploader**, I used **Multer** and **Multer-S3** library. At first, I created a folder for saving the images in the Amazon S3 server. If an image is uploaded on the Front-end, our server uses Multer to upload the image to Amazon S3 server. Then, it fetches the url to access the uploaded image from Amazon S3 server. This url is saved in the database, and then also sent to the Front-end in the response string. Client will be able to display the image using the url received from the server. 
+
+```javascript
+const s3 = new AWS.S3({ 
+    accessKeyId: process.env.KEYID, //Caution
+    secretAccessKey: process.env.KEY, //Caution
+    region: process.env.REGION, //Caution
+});
+
+const upload = multer({ 
+    storage: multerS3({
+        s3: s3,
+        bucket: 'petguru-client',
+        contentType: multerS3.AUTO_CONTENT_TYPE, 
+        acl: 'bucket-owner-full-control',
+        metadata: function (req, file, cb) {
+            cb(null, { fieldName: file.fieldname }) 
+        },
+        key: function (req, file, cb) { 
+            cb(null, `uploads/${Date.now()}_${file.originalname}`)
+        },
+    }),
+})
+```
+
+<br>
+
+In the above code, you can see that the Access Key Id, Secret Access Key and Region is being handled with **dotenv**. Since these information should not be openly shared, I handled this information as environment variable using dotenv.
 
 <br>
 
