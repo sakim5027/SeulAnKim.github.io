@@ -9,7 +9,7 @@ cover-img: /assets/img/photo-1557682250-33bd709cbe85.jpeg
 
 ## About me
 
-**Seul An Kim** is an **_enthusiastic newcomer in IT industry_** who is looking for a new career as a **_Back-end Developer_**. 
+**Seul An Kim** is an **_enthusiastic newcomer in IT industry_** who is looking for a new career as a **_Software Engineer_**. 
 
 She worked over 5 years as an Accounting Manager in the Automotive Industry, but she got interested in the IT industry and finished 51-week Web Development Course by Codestates (Coding Bootcamp). During this course, she did weekly pair programming and multiple team projects, which made her learn the Web Development with the importance in communication. 
 
